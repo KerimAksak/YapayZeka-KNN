@@ -5,9 +5,9 @@
 
 - Proje içerisinde rastgele 3 sýnýf oluþturulmaktadýr.
 
-	![Screenshot](png/1.png)
+	![Screenshot](png/3sinif.png)
 	
-	Oluþturulan sýnýflardan sonra yine rastgele olacak þekilde bir bilinmeyene (X) nesnesi oluþturulur. Daha sonra bu oluþturulan nesnenin hangi sýnýfa ait olduðunu bulabilmek için ilk önce k=3 deðeri için sýnýflar kontrol edilir.
+	Oluþturulan sýnýflardan sonra yine rastgele olacak þekilde bir bilinmeyen (X) nesnesi oluþturulur. Daha sonra bu oluþturulan nesnenin hangi sýnýfa ait olduðunu bulabilmek için ilk önce k=3 deðeri için sýnýflar kontrol edilir.
 	
 	![Screenshot](png/k3.png)
 	
